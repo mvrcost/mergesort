@@ -28,13 +28,5 @@ Os amigos decidiram assistir a Oppenheimer que estava na posição 4 da lista.
 
 Examples
 
-Case: 1
+![Capturar](https://github.com/mvrcost/mergesort/assets/131052793/6fcf56bd-c834-4a82-a3f5-4cf1aa59dc3a)
 
-Input
-
-Barbie,Elementos,Missao_Impossivel,Transformers
-Oppenheimer,Pequena_Sereia,Sobrenatural
-
-Output
-
-Os amigos decidiram assistir a Oppenheimer que estava na posição 4 da lista.
